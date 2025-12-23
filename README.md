@@ -1,8 +1,7 @@
 # Building An Active Directory Home Lab
 ---
 
-<img width="720" height="344" alt="Image" src="https://github.com/user-attachments/assets/5d028067-a0a6-4d5b-831f-d949bb4230f8" />
-
+<img width="630" height="301" alt="Image" src="https://github.com/user-attachments/assets/46ef1cae-694e-4573-9d5a-3a3f67672417" />
 
 ---
 
